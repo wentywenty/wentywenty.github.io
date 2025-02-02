@@ -1,0 +1,29 @@
+toc:
+  - title: 开始
+    url: /
+    children:
+      - title: 快速入门
+        url: /getting-started
+      - title: 基础配置
+        url: /configuration
+  
+  - title: 技术笔记
+    children:
+      - title: Java开发
+        url: /notes/java
+      - title: ROS2开发
+        url: /notes/ros2
+      - title: Android开发
+        url: /notes/android
+      - title: 嵌入式开发
+        url: /notes/embedded
+
+  - title: 项目文档
+    children:
+      - title: 项目概览
+        url: /projects/overview
+      - title: 开发指南
+        url: /projects/guide
+
+  - title: 关于
+    url: /about
